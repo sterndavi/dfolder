@@ -1,6 +1,6 @@
-Package: DFolder
+Package: dfolder
 Type: Package
-Title: Vectorized functions for creation, ziping and deleting files and folders
+Title: Vectorized functions for creation, ziping and deleting files inside folders
 Version: 0.1.0
 Author: Davi Stern
 Maintainer: Davi Stern <sterndavi@protonmail.com>
